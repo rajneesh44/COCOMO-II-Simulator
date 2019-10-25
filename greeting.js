@@ -1,0 +1,1 @@
+alert("WELCOME to COCOMO II SIMULATOR");
